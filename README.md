@@ -44,7 +44,7 @@ Funding sources: the National Science Foundation (IOS-1021633); Kalahari Meerkat
 
 SHARING INFORMATION
 
-Licenses and restrictions:
+All rights reserved
 
 Publications using these scripts and data:  (preprint)
 
