@@ -89,9 +89,9 @@ Control_vs_Treated_Behaviour_Script - produces the results presented in Table S7
 
 Subordinate_(Dominant_control_vs_treated)_Behaviour_Script - produces the results presented in Table S9: Effects of the matriarch’s treatment condition on the behavior of pregnant and postpartum, subordinate meerkats. 
 
-Offspring_script_a - produces Fig.2 and the results presented in Table S_: _ 
+Offspring_script_a - produces Fig. 2 and the results presented in Table S3: Effects of mother and offspring age on offspring aggression.
 
-nn_pub_code - produces the results presented in Table S_: _
+nn_pub_code - produces the results presented in Table S5: Effects of antiandrogen-treatment of dominant female meerkats on her dyadic rates of nearest-neighbour associations, per adult clan member, as measured by proximity scans.
 
 All analyses were conducted in R - see manuscript for versions and packages used. All graphs in the manuscript apart from Fig. 2. were produced using GraphPad Prism 8. Fig. 2 was produced in R using ggplot2.
 
